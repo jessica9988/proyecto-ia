@@ -7,5 +7,7 @@ Jessica Marcela Ariza Florez cod 2171736
 DETERMINAR CUALES SON LOS FACTORES IMPORTANTES A LA HORA DE DETECTAR EL CANCER DE MAMA
 # DATASET
 https://www.kaggle.com/yasserh/breast-cancer-dataset
+# github repositorio
+https://github.com/jessica9988/proyecto-ia/blob/main/proyecto-IA/cancermama.ipynb
 
 
