@@ -2,8 +2,8 @@
 # FACTORES IMPORTANTES PARA DETECTAR CANCER DE MAMA
 ![FACTORES IMPORTANTES A LA HORA DE DETECTAR CÁNCER DE MAMA](https://user-images.githubusercontent.com/98856036/156943801-857f25f4-173b-413b-b0a0-7471bfed8415.png)
 # Autor
-jessica marcela ariza florez cod 2171736
-# objetivo
+Jessica Marcela Ariza Florez cod 2171736
+# Objetivo
 DETERMINAR CUALES SON LOS FACTORES IMPORTANTES A LA HORA DE DETECTAR EL CANCER DE MAMA
 # DATASET
 https://www.kaggle.com/yasserh/breast-cancer-dataset
