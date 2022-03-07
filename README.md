@@ -11,7 +11,7 @@ https://www.kaggle.com/yasserh/breast-cancer-dataset
 https://github.com/jessica9988/proyecto-ia/blob/main/proyecto-IA/cancermama.ipynb
 # modelo
 se utilizaron dos modelos de clasificacion 
-Random Forest Classifier
+Random Forest Classifier y decision tree classifier
 
 
 
