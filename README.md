@@ -9,5 +9,9 @@ DETERMINAR CUALES SON LOS FACTORES IMPORTANTES A LA HORA DE DETECTAR EL CANCER D
 https://www.kaggle.com/yasserh/breast-cancer-dataset
 # github repositorio
 https://github.com/jessica9988/proyecto-ia/blob/main/proyecto-IA/cancermama.ipynb
+# modelo
+se utilizaron dos modelos de clasificacion 
+Random Forest Classifier
+
 
 
